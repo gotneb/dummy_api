@@ -7,3 +7,5 @@ class Place:
     city: str
     description: str
     rating: float
+    price: float
+    image: str

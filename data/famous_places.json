@@ -4,69 +4,89 @@
       "country": "France",
       "city": "Paris",
       "description": "An iconic iron structure and symbol of romance, offering panoramic views of Paris. Ideal for photography, dining, and enjoying the charm of the City of Light.",
-      "rating": 4.8
+      "rating": 4.8,
+      "price": 1578,
+      "image": "https://t4.ftcdn.net/jpg/02/14/74/11/360_F_214741146_jApjeGkU3GSPSpLhzyMsupP7frpAh1XH.jpg"
     },
     {
       "id": 2,
       "country": "United States",
       "city": "New York",
       "description": "A vibrant square with massive screens, theaters, and nonstop energy. Perfect for nightlife, shopping, and soaking in the electric heart of Manhattan.",
-      "rating": 4.6
+      "rating": 4.6,
+      "price": 2450,
+      "image": "https://media.istockphoto.com/id/1189582397/photo/wide-angle-cityscape-houston.jpg?s=612x612&w=0&k=20&c=dE-B7UkDtYoeADMxj7FqhRw10t86zRl9BrH2OktTYAc="
     },
     {
       "id": 3,
       "country": "Italy",
       "city": "Rome",
       "description": "A legendary amphitheater that once hosted gladiator battles. Its grand architecture and historic importance make it a must-see when visiting Rome.",
-      "rating": 4.7
+      "rating": 4.7,
+      "price": 2178,
+      "image": "https://plus.unsplash.com/premium_photo-1661963952208-2db3512ef3de?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YW5jaWVudCUyMHJvbWV8ZW58MHx8MHx8fDA%3D"
     },
     {
       "id": 4,
       "country": "India",
       "city": "Agra",
       "description": "A majestic white marble mausoleum built for love. Recognized globally for its beauty and symmetry, it's a true wonder of the world.",
-      "rating": 4.9
+      "rating": 4.9,
+      "price": 7423,
+      "image": "https://static.toiimg.com/thumb/msid-105717782,width-748,height-499,resizemode=4,imgsize-107610/.jpg"
     },
     {
       "id": 5,
       "country": "China",
       "city": "Beijing",
       "description": "An ancient defense structure stretching across mountains and valleys. Hike its scenic paths while taking in China’s rich history and breathtaking views.",
-      "rating": 4.8
+      "rating": 4.8,
+      "price": 2345,
+      "image": "https://media.istockphoto.com/id/482334184/photo/night-on-beijing-central-business-district-buildings-skyline-china-cityscape.jpg?s=612x612&w=0&k=20&c=gd1nunX5dLfHTAyyqTE2frn4Iw-dzyr60YqJGaK2M4U="
     },
     {
       "id": 6,
       "country": "Brazil",
       "city": "Rio de Janeiro",
       "description": "Towering above the city, this massive statue offers incredible views and spiritual significance. A symbol of Brazil and a must-visit in Rio.",
-      "rating": 4.7
+      "rating": 4.7,
+      "price": 4578,
+      "image": "https://media.istockphoto.com/id/608540602/photo/aerial-panorama-of-botafogo-bay-rio-de-janeiro.jpg?s=612x612&w=0&k=20&c=9vsK_9r4ldoLyfS6oLnUbvpQOgYCfzr4xCZ1-YFNJZo="
     },
     {
       "id": 7,
       "country": "Australia",
       "city": "Sydney",
       "description": "Famous for its sail-like design and vibrant arts scene. Ideal for culture lovers and photographers alike, located by the stunning Sydney Harbour.",
-      "rating": 4.5
+      "rating": 4.5,
+      "price": 8523,
+      "image": "https://t4.ftcdn.net/jpg/04/12/81/69/360_F_412816969_cpRI2c2aSHobr77aOOzgO3kcW7FWCn9e.jpg"
     },
     {
       "id": 8,
       "country": "Egypt",
       "city": "Giza",
       "description": "The last of the ancient wonders still standing. Marvel at their grandeur and explore the mysteries of ancient Egypt in the surrounding desert.",
-      "rating": 4.9
+      "rating": 4.9,
+      "price": 5620,
+      "image": "https://t3.ftcdn.net/jpg/02/79/09/84/360_F_279098467_wy75eVNsfvhmqULOxzoFvGsjJwtSLyx8.jpg"
     },
     {
       "id": 9,
       "country": "UK",
       "city": "London",
       "description": "A historic clock tower beside the Houses of Parliament. A classic London landmark ideal for photos and close to many other famous sights.",
-      "rating": 4.6
+      "rating": 4.6,
+      "price": 8424,
+      "image": "https://t4.ftcdn.net/jpg/02/57/75/51/360_F_257755130_JgTlcqTFxabsIKgIYLAhOFEFYmNgwyJ6.jpg"
     },
     {
       "id": 10,
       "country": "Japan",
       "city": "Kyoto",
       "description": "Known for its thousands of red torii gates winding up a forested path. A spiritual and scenic spot perfect for peaceful walks and unique photos.",
-      "rating": 4.7
+      "rating": 4.7,
+      "price": 7422,
+      "image": "https://www.advantour.com/img/japan/images/kyoto.jpg"
     }
 ]
