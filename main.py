@@ -34,3 +34,10 @@ async def get_place_id(id: int):
     place = model.find_place_by_id(all_places, id)
     print(f"Found place {place.country}")
     return place
+
+if __name__ == "__main__":
+    import os
+    import uvicorn
+
+    port = int(os.environ.get("PORT", 8000))  # Render sets PORT dynamically
+    uvicorn.run("main:app", host="0.0.0.0", port=port, reload=False)
