@@ -25,12 +25,12 @@ async def get_recommended_places():
 async def get_top_places():
     all_places = model.get_places() + model.get_famous_places()
     places = model.get_random_places(all_places)
-    print(places)
+    print(f'Got top places: {len(places)}')
     return places
 
 @app.get("/places/{id}")
 async def get_place_id(id: int):
-    all_places = model.get_places() + model.get_famous_places()
+    all_places = model.get_places()
     place = model.find_place_by_id(all_places, id)
     print(f"Found place {place.country}")
     return place

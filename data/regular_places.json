@@ -41,6 +41,7 @@
         "city": "Busan",
         "description": "A clean urban beach with a view of the illuminated Gwangan Bridge. Popular for evening strolls, cafés, and relaxing by the sea.",
         "rating": 100,
+        "price": 7420,
         "image": "https://thumbs.dreamstime.com/b/skyline-busan-south-korea-night-30146033.jpg"
       },
       {
@@ -48,7 +49,8 @@
         "country": "Argentina",
         "city": "Buenos Aires",
         "description": "A trendy square full of bars, art, and weekend markets. It’s a lively hub where locals and travelers enjoy food, music, and handmade crafts.",
-        "rating": 30,
+        "rating": 2.8,
+        "price": 45,
         "image": "https://plus.unsplash.com/premium_photo-1697729901052-fe8900e24993?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXJnZW50aW5hfGVufDB8fDB8fHww"
       },
       {
