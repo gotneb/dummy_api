@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "country": "France",
+      "city": "Paris",
+      "description": "An iconic iron structure and symbol of romance, offering panoramic views of Paris. Ideal for photography, dining, and enjoying the charm of the City of Light.",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "country": "United States",
+      "city": "New York",
+      "description": "A vibrant square with massive screens, theaters, and nonstop energy. Perfect for nightlife, shopping, and soaking in the electric heart of Manhattan.",
+      "rating": 4.6
+    },
+    {
+      "id": 3,
+      "country": "Italy",
+      "city": "Rome",
+      "description": "A legendary amphitheater that once hosted gladiator battles. Its grand architecture and historic importance make it a must-see when visiting Rome.",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "country": "India",
+      "city": "Agra",
+      "description": "A majestic white marble mausoleum built for love. Recognized globally for its beauty and symmetry, it's a true wonder of the world.",
+      "rating": 4.9
+    },
+    {
+      "id": 5,
+      "country": "China",
+      "city": "Beijing",
+      "description": "An ancient defense structure stretching across mountains and valleys. Hike its scenic paths while taking in China’s rich history and breathtaking views.",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "country": "Brazil",
+      "city": "Rio de Janeiro",
+      "description": "Towering above the city, this massive statue offers incredible views and spiritual significance. A symbol of Brazil and a must-visit in Rio.",
+      "rating": 4.7
+    },
+    {
+      "id": 7,
+      "country": "Australia",
+      "city": "Sydney",
+      "description": "Famous for its sail-like design and vibrant arts scene. Ideal for culture lovers and photographers alike, located by the stunning Sydney Harbour.",
+      "rating": 4.5
+    },
+    {
+      "id": 8,
+      "country": "Egypt",
+      "city": "Giza",
+      "description": "The last of the ancient wonders still standing. Marvel at their grandeur and explore the mysteries of ancient Egypt in the surrounding desert.",
+      "rating": 4.9
+    },
+    {
+      "id": 9,
+      "country": "UK",
+      "city": "London",
+      "description": "A historic clock tower beside the Houses of Parliament. A classic London landmark ideal for photos and close to many other famous sights.",
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "country": "Japan",
+      "city": "Kyoto",
+      "description": "Known for its thousands of red torii gates winding up a forested path. A spiritual and scenic spot perfect for peaceful walks and unique photos.",
+      "rating": 4.7
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": 11,
+        "country": "Germany",
+        "city": "Munich",
+        "description": "A massive urban park with trails, streams, and open lawns. Great for picnics, jogging, and relaxing in one of Munich’s most beloved green spaces.",
+        "rating": 4.4
+      },
+      {
+        "id": 12,
+        "country": "Canada",
+        "city": "Vancouver",
+        "description": "A lively destination filled with markets, street performers, and waterfront views. Perfect for casual strolls, local art, and fresh food.",
+        "rating": 4.3
+      },
+      {
+        "id": 13,
+        "country": "Portugal",
+        "city": "Lisbon",
+        "description": "A scenic viewpoint offering sweeping views of Lisbon’s red rooftops and hills. A peaceful place to enjoy sunsets and take memorable photos.",
+        "rating": 4.5
+      },
+      {
+        "id": 14,
+        "country": "Mexico",
+        "city": "Guadalajara",
+        "description": "A spacious park ideal for biking, jogging, and family outings. Surrounded by nature and offering a calm break from city life.",
+        "rating": 4.2
+      },
+      {
+        "id": 15,
+        "country": "South Korea",
+        "city": "Busan",
+        "description": "A clean urban beach with a view of the illuminated Gwangan Bridge. Popular for evening strolls, cafés, and relaxing by the sea.",
+        "rating": 4.3
+      },
+      {
+        "id": 16,
+        "country": "Argentina",
+        "city": "Buenos Aires",
+        "description": "A trendy square full of bars, art, and weekend markets. It’s a lively hub where locals and travelers enjoy food, music, and handmade crafts.",
+        "rating": 4.1
+      },
+      {
+        "id": 17,
+        "country": "Poland",
+        "city": "Krakow",
+        "description": "A green belt surrounding Krakow’s old town. Ideal for peaceful walks under tree canopies, passing historic sites and cozy benches.",
+        "rating": 4.2
+      },
+      {
+        "id": 18,
+        "country": "New Zealand",
+        "city": "Wellington",
+        "description": "A scenic lookout with panoramic views of the harbor and city. A favorite local spot for photos, sunsets, and spotting planes landing.",
+        "rating": 4.4
+      },
+      {
+        "id": 19,
+        "country": "Belgium",
+        "city": "Bruges",
+        "description": "A quiet, romantic park with swans and willow trees by the water. Great for peaceful strolls and relaxing in the heart of Bruges.",
+        "rating": 4.3
+      },
+      {
+        "id": 20,
+        "country": "Thailand",
+        "city": "Chiang Mai",
+        "description": "A small but charming park with ponds, flowers, and quiet paths. Ideal for reading, relaxing, or enjoying a gentle walk in the city.",
+        "rating": 4.1
+      }
+]
