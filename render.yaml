@@ -1,0 +1,14 @@
+previews:
+  generation: off
+
+
+services:
+  # A web service on the Python native runtime
+  - type: web
+    runtime: python
+    name: dummy-api
+    repo: https://github.com/gotneb/dummy_api
+    plan: free
+    branch: main
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    startCommand: fastapi run
