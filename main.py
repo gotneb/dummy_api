@@ -45,12 +45,14 @@ async def get_top_places():
     print(f'Got top places: {len(places)}')
     return places
 
+
 @app.get("/places/{id}")
 async def get_place_id(id: int):
     all_places = model.get_places()
     place = model.find_place_by_id(all_places, id)
     print(f"Found place {place.country}")
     return place
+
 
 if __name__ == "__main__":
     import os

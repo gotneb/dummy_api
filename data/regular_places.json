@@ -88,5 +88,23 @@
         "rating": 4.1,
         "price": 456,
         "image": "https://plus.unsplash.com/premium_photo-1661929242720-140374d97c94?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hpYW5nJTIwbWFpfGVufDB8fDB8fHww"
-      }
+      },
+      {
+        "id": 21,
+        "country": "Brazil",
+        "city": "Gramado",
+        "description": "A picturesque town known for its German-inspired architecture, festivals, chocolate shops, and scenic landscapes. Gramado offers a cozy, European-like atmosphere surrounded by mountains, perfect for relaxation and cultural experiences.",
+        "rating": 4.7,
+        "price": 6500.0,
+        "image": "https://media.istockphoto.com/id/688523034/photo/street-and-architecture-of-gramado-city-gramado-rio-grande-do-sul-brazil.jpg?s=612x612&w=0&k=20&c=6OAmGfFLdH6g0LPIIzMHRmrX_dlR646H0MacPsCl6WA="
+    },
+    {
+        "id": 22,
+        "country": "Brazil",
+        "city": "Manaus",
+        "description": "Located at the heart of the Amazon rainforest, Manaus is known for its vibrant markets, rich culture, and the Meeting of Waters. It serves as the gateway to explore the natural wonders of the Amazon.",
+        "rating": 4.5,
+        "price": 7200.0,
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/20/49/13/vista-externa-do-teatro.jpg?w=700&h=400&s=1"
+    }
 ]

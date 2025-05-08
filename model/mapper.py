@@ -32,4 +32,4 @@ def find_places_by_country(places: List[Place], country_name: str) -> List[Place
     return [place for place in places if place.country.lower() == country_name.lower()]
 
 def get_random_places(places: List[Place]) -> List[Place]:
-    return random.sample(places, 5)
+    return random.sample(places, 10)
